@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DhanekulaYaswanth/to-do-app/static/css/main.9cc9a324.css",
+    "main.js": "/DhanekulaYaswanth/to-do-app/static/js/main.ac6a4626.js",
+    "index.html": "/DhanekulaYaswanth/to-do-app/index.html",
+    "main.9cc9a324.css.map": "/DhanekulaYaswanth/to-do-app/static/css/main.9cc9a324.css.map",
+    "main.ac6a4626.js.map": "/DhanekulaYaswanth/to-do-app/static/js/main.ac6a4626.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cc9a324.css",
+    "static/js/main.ac6a4626.js"
+  ]
+}
